@@ -2,11 +2,11 @@
 #include <math.h>
 #include <stdlib.h>
 
-decimalConversion(binaryArr[])
+int decimalConversion(int binaryArr[])
 {
   int decimalVal = 0;
 
-  for (int i = 7, z = 0; i > 0; i--, j++)
+  for (int i = 7, z = 0; i > 0; i--, z++)
   {
     decimalVal = decimalVal + ((binaryArr[i] - 48) * pow(2,z));
   }
@@ -14,7 +14,7 @@ decimalConversion(binaryArr[])
   return decimalVal;
 }
 
-char* parity(binaryArr[])
+char* parity(int binaryArr[])
 {
   int sumPar = 0;
 
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
 
     if (argCounter > 0)
     {
-      for (int j = counter - 1; j < 8; j++)
+      for (int j = argCounter - 1; j < 8; j++)
       {
         binaryVal[j] = '0';
       }
