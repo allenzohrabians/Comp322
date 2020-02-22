@@ -1,1 +1,3 @@
 # Comp322
+
+This is the beginning of my ReadMe file for Lab 0. The project has been a bit of struggle for me. I haven't been able to properly include the read function within my program. I instead had to use the fopen() function which I know wasn't what was requested of the project, but after a lot of time put into the attempt I decided to settle for what I was able to make work. I understand if this will result in a deduction of points for my grade. The overall process has been unsettling for me. I'm still having trouble with the use of Github and Ubuntu, something that I hope to clear up for the coming labs. I acknowledge that there's a lot of work to be done moving forward, but now I'm aware of what Professor Benson expects of me in this class. 
