@@ -16,3 +16,9 @@ include pointers to both the process ID as well as the status location. Within t
 there I created an if else statement in which if the values for the process ID as well as the status location were set to NULL (indicating 
 it is coming from the child process) then we would only print the PID and PPID. In the case of else (indicating it is coming from the 
 parent process), alongside printing out the PID and PPID we would also print out the PID of the child and the return status of the child.
+
+Thursday (2/27/2020):
+This is my fourth README entry for Lab 1. I'm nearing the final stages of the project. The ouput is giving me the results that Professor 
+Benson is looking for. I was just a little skeptical about the start and stop times being identical so I had included a sleep() function 
+below my time() function providing a 4 second wait interval before execution. Now I am just making sure to leave comments in the necessary 
+areas within my code.
