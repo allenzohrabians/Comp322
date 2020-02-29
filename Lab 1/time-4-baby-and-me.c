@@ -3,8 +3,8 @@
 #include <unistd.h>  /* _exit, fork */
 #include <stdlib.h>  /* exit */
 #include <errno.h>   /* errno */
-#include <time.h>
-#include <sys/wait.h>
+#include <time.h>   /* clock_t, time_h, struct tm */
+#include <sys/wait.h> /* waitpid() */
 #include <sys/times.h>
 
 void parentChildReport(pid_t* process_id, int* stat_loc)
