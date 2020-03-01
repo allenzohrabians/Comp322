@@ -27,4 +27,5 @@ necessary areas within my code.
 Saturday (2/29/2020):
 This is my fifth and final README entry for Lab 1. The project is complete and ready for submission. There was a lot of simplicity in 
 this assignment, but I hadn't dealt with forking before so I was happy to have learned a new skill. The whole program excluding comments 
-was approximately sixty lines of code. I'm much more content with my efficiency on this project in comparison to the previous Lab 0. Overall, my research, preparation, design, and implementation were handled very well in regards to time management.
+was approximately sixty lines of code. I'm much more content with my efficiency on this project in comparison to the previous Lab 0. 
+Overall, my research, preparation, design, and implementation were handled very well in regards to time management.
