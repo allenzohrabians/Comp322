@@ -12,7 +12,7 @@ which handles the printing of the user times and system times for both the paren
 
 Monday (2/24/2020):
 This is my third README entry for Lab 1. Continuing with the project we move on towards the parentChildReport() function. Its paramters 
-include pointers to both the process ID as well as the status location. Within the process I made calls to retrieve the pid and ppid. 
+include pointers to both the process ID as well as the status location. Within the process I made calls to retrieve the PID and PPID. 
 From there I created an if else statement in which if the values for the process ID as well as the status location were set to NULL 
 (indicating it is coming from the child process) then we would only print the PID and PPID. In the case of else (indicating it is coming 
 from the parent process), alongside printing out the PID and PPID we would also print out the PID of the child and the return status of 
