@@ -18,4 +18,9 @@ it. Conceptually understanding it wasn't an issue, however the actual coding for
 time and assistance from a relative, I was able to get it working within the program.
 
 Saturday (3/14/2020):
-This is my fourth and final README entry for Lab 3. I'm currently testing my two programs with the usage examples provided by Professor Benson, and am satisfied with the output for both launch and tube. Besides that I am also double checking for areas in my files that may need commenting. The project was very challenging in comparison to Lab 2, but I enjoyed the idea of building off of what we already learned with fork() and waitpid() with some new material. I do wish I could have managed my time a little better since a bulk of the project for me was completed in the last 3 days, but due to midterm preparation there was a gap of about 5 days where I hadn't been able to work on the Lab. With that being said, I am still content with my work on this project and am looking forward to the others to come.
+This is my fourth and final README entry for Lab 3. I'm currently testing my two programs with the usage examples provided by Professor 
+Benson, and am satisfied with the output for both launch and tube. Besides that I am also double checking for areas in my files that may 
+need commenting. The project was very challenging in comparison to Lab 2, but I enjoyed the idea of building off of what we already learned 
+with fork() and waitpid() with some new material. I do wish I could have managed my time a little better since a bulk of the project for me 
+was completed in the last 3 days, but due to midterm preparation there was a gap of about 5 days where I hadn't been able to work on the 
+Lab. With that being said, I am still content with my work on this project and am looking forward to the others to come.
