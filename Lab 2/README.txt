@@ -10,3 +10,10 @@ expected. The only trouble I came across was not having the desired output for t
 of the return value being 2 to indicate that it was missing a keyword/command or that there was a permission problem, I had received the 
 value of 512. I fixed this through implementing WIFEXITED() and WEXITSTATUS() within the parent process so that we can be sure that the 
 child terminated normally and that the correct return value was being displayed.
+
+Friday (3/13/2020):
+This is my third README entry for Lab 3. After finishing all my midterms prior to Spring Break, I was able to continue with the project now 
+moving on to the tube program. The main thing here that took myself some time to fully grasp was dup2(), even after my initial research on 
+it. Conceptually understanding it wasn't an issue, however the actual coding for that function was what was holding me back. After some 
+time and assistance from a relative, I was able to get it working within the program.
+
