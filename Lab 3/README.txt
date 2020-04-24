@@ -13,3 +13,6 @@ final presentation. However, my 322 work is of major importance as well and fall
 more labs become assigned. Lab 3 has been a challenge as I've been unsure on how to proceed with my code at particular points, but I'm 
 receiving help through resources online as well as some tutors I've been video chatting with. I'm just hoping to revert from the 
 inconsistencies of the previous weeks and be able to come up with the finished product as soon as possible.
+
+Thursday (4/23/2020)
+This is my third and final README entry for Lab 3. I'm just about finished with the project. It took me much longer than expected as it's been a month since the actual due date. However, I am confident with my work on this lab and am ready for the challenges that come with
