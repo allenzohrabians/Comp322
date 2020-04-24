@@ -21,7 +21,3 @@ with my work on this lab and am ready for the challenges that come with the rema
 change for me moving forward, it is making sure to spend more time daily on each of these labs to meet the deadline in a few weeks time 
 with well running finished products. My other classes have honestly been heavily prioritized for me in recent weeks as I had some exams to 
 prepare for, but I have also made sure to keep up with the readings for 322 so that I'll be ready for the final coming up shortly.
-
-
-
-
