@@ -15,4 +15,13 @@ receiving help through resources online as well as some tutors I've been video c
 inconsistencies of the previous weeks and be able to come up with the finished product as soon as possible.
 
 Thursday (4/23/2020)
-This is my third and final README entry for Lab 3. I'm just about finished with the project. It took me much longer than expected as it's been a month since the actual due date. However, I am confident with my work on this lab and am ready for the challenges that come with
+This is my third and final README entry for Lab 3. I just finished the project and have recently added comments to the code. This 
+assignment took me a good while to finally complete, considering it has been a month since the actual due date. However, I am confident 
+with my work on this lab and am ready for the challenges that come with the remaining four assignments. If there's anything that will 
+change for me moving forward, it is making sure to spend more time daily on each of these labs to meet the deadline in a few weeks time 
+with well running finished products. My other classes have honestly been heavily prioritized for me in recent weeks as I had some exams to 
+prepare for, but I have also made sure to keep up with the readings for 322 so that I'll be ready for the final coming up shortly.
+
+
+
+
