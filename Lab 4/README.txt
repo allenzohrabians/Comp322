@@ -16,3 +16,12 @@ This is my third README entry for Lab 4. I'm at the point of going over the proj
 from the first two parts and is able to run properly for the individual philosopher. Once I've cleared that up, I'm choosing to avoid part 
 3 which is optional and just go ahead and write the bash script to allow the program to run multiple times. This file shouldn't take too 
 long to make but it is something I haven't attempted before
+
+Friday (5/1/2020):
+This is my fourth and final README entry for Lab 4. The bash script is finished and after several tests and adjustments, I have the program 
+running multiple times. I'm able to use the kill command to terminate each process one by one with no occurances of errors. I'm very 
+satisfied with the results as well as my time management throughout this previous week on the project. This was the last assignment I will 
+be turning in past its due date without a late penalty since the final three labs are all due on May 8th which is the last day of the 
+regular semester. There's a lot of work to be done for 322 and I just want to give it my best effort. After a poorly attempted Lab 0, I 
+knew I had to regain a strong work ethic if I wanted to pass this class. Ever since Lab 1, I feel more confident with taking on these 
+assignments, and now with the little time I have left I want to make sure I can have everything turned in within the next week.
