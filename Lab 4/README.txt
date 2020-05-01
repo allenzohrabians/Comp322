@@ -10,3 +10,9 @@ previous labs and how all of these ideas continue to stack on top of each other.
 catching up I had to do on sem_open and the oflag argument. Part 2 on the other hand didn't require a lot of work, but I did have to think 
 about two different approaches to preventing deadlock. I ultimately chose to go with the removal of circular wait and having all my 
 philosophers be left-handed besides the philosopher in position 1 who I would make right-handed.
+
+Tuesday (4/28/2020):
+This is my third README entry for Lab 4. I'm at the point of going over the project description and making sure my program covers all steps 
+from the first two parts and is able to run properly for the individual philosopher. Once I've cleared that up, I'm choosing to avoid part 
+3 which is optional and just go ahead and write the bash script to allow the program to run multiple times. This file shouldn't take too 
+long to make but it is something I haven't attempted before
