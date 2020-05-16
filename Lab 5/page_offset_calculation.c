@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv)
 {
-  const int PAGE_SIZE = 4096;   // 4-KB page size (stored as a constant integer)
+  const int PAGE_SIZE = 4096;   //4-KB page size (stored as a constant integer)
   unsigned int address;
   unsigned int page_number;
   unsigned int offset;      // In 32-bit integers, an unsigned integer has a range of 0 to 2^(32)-1 or about 4 billion
