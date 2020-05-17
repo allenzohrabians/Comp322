@@ -40,7 +40,8 @@ int main(int argc, char **argv)
   umask(0); // set the file creation mask to 0;
   char buf[50];
   char pathToMole[50];
-  getcwd(buf, 50);
+  getcwd(buf, 50);    /* getcwd - copies an absolute pathname of the current working directory to
+                                  the array pointed to by buf, which is of length 50 */
   sprintf(pathToMole, "%s/mole", buf);
   printf("%s\n", pathToMole);
   pid_t process_id = fork();  /*  Creates a new process by duplicating the calling process.
